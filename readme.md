@@ -1,4 +1,4 @@
-# Real time chat with Javascript
+# Real time chat with Javascripttt
 
 We are going to make a real time chat with Javascript in this free workshop. You will learn websockets and the basics of Node.js.
 
